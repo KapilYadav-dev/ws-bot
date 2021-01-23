@@ -1,0 +1,19 @@
+{
+  "name": "ws-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "mrkaydev",
+  "license": "ISC",
+  "dependencies": {
+    "pkg": "^4.4.9",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.12.0"
+  },
+  "devDependencies": {
+    "nexe": "^4.0.0-beta.16"
+  }
+}
